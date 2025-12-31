@@ -9,4 +9,14 @@
 
 ## 🔧 Installation
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tahas252511-ctrl/hex-mm2-script/main/hex-script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tahas252511-ctrl/hex-mm2-script/main/Hex.lua"))()
+```
+
+## ⚠️ Disclaimer
+This script is for educational purposes only. Use at your own risk.
+
+## 🐛 Issues
+Report bugs in the Issues section.
+
+## 📜 License
+MIT License - See [LICENSE](LICENSE) file
